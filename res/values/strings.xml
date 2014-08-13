@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Alive</string>
+    <string name="hello_world">Hello world!</string>
+    <color name="splash_background">#20262E</color>
+    <color name="white">#FFFFFF</color>
+    
+     <string name="welcome">Добро пожаловать!</string>
+     <string name="first_run">ПЕРВОЕ ВКЛЮЧЕНИЕ</string>
+     <string name="virt_test">ПРОПУСТИТЬ</string>
+     <string name="next_btn">ДАЛЕЕ</string>
+     <string name="connector_alive">Коннектор Aive!</string>
+     <string name="cancel">Отмена</string>
+     <string name="connect">Подключение</string>
+     <string name="reload_alive">Коннектор Alive!\n перезагружается</string>
+     <string name="end_option">Закончить настройку</string>
+     <string name="wait_connect">Вы подключены к своей сети.\nОжидаю подключение\nконнектора</string>
+     <string name="check_connect">Если коннектор долго не подключается,\nпроверьте, подключен ли он к источнику\nпитания. В случае задания неверных\nпараметров подключения,сбросьте\nнастройки коннектора,нажав и удерживая\nскрытую кнопку на корпусе коннектора.</string>
+     <string name="connect_alive">Коннектор Alive! успешно\nПрописан в вашу сеть</string>
+     <string name="start_work">Все готово.\nМожете начать работу. Если вы захотите\nизменить настройки в дальнейшем,можете\nсделать это через боковое меню.Чтобы\nсбросить настройки подключения,нажмите\nи удерживайте скрытую кнопку на корпусе\nAlive! Connector.</string>              
+
+     
+     <string name="connect_alive_electro">Подключите коннектор Alive!\n к электросети</string>
+     <string name="point_connect">В настройках вашего мобильного\устройства подключитесь к точке\nдоступа milight.</string>
+     
+     <string name="point_not_to_list">Если точки доступа нет в списке сетей,\nнажмите кнопку сброса на корпусе\nконнектора.Если к сети не удается\nподключиться,подключите коннектор\nзаново.</string>
+     <string name="waiting">Ожидание...</string>
+     <string name="for_use_system">"Для использования системы Alive!\nсовместно с интернетом,\nнеобходимо подключить\n коннектор Alive к своей\n домашней сети</string>
+     <string name="are_you_connect">Вы подключены к сети\n US Department of State ?</string>
+     
+     <string name="on_connector">Хотите включить конектор\n в свою домашнюю сеть? </string>
+     
+     
+      
+     
+</resources>
